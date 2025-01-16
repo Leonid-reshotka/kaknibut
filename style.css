@@ -1,5 +1,23 @@
 body {
     background-color: lightblue;
-    text-align: center;
-    scale: 2;
 }
+.c {width: 40px; height: 30px;}
+.plus {width: 40px; height: 30px;}
+.minus {width: 40px; height: 30px;}
+.umn {width: 40px; height: 30px;}
+.seben {width: 40px; height: 30px;}
+.acht {width: 40px; height: 30px;}
+.neun {width: 40px; height: 30px;}
+.del {width: 40px; height: 30px;}
+.vier {width: 40px; height: 30px;}
+.funf {width: 40px; height: 30px;}
+.sechs {width: 40px; height: 30px;}
+.kor {width: 40px; height: 30px;}
+.eins {width: 40px; height: 30px;}
+.zwei {width: 40px; height: 30px;}
+.drei {width: 40px; height: 30px;}
+.step {width: 40px; height: 30px;}
+.null {width: 40px; height: 30px;}
+.rav {width: 40px; height: 30px;}
+.plusminus {width: 40px; height: 30px;}
+.delete {width: 40px; height: 30px;}
